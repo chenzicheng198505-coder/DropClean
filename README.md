@@ -50,6 +50,7 @@ Current version: **1.0.0**
 - DropClean currently provides an Apple Silicon build for macOS.
 - The app runs locally. It does not require an account or cloud sync.
 - This public repository is used for product introduction and downloads. Source code is not included.
+- This build is currently unsigned. If macOS blocks the first launch, open **System Settings → Privacy & Security**, then allow DropClean to open.
 
 ---
 
@@ -101,3 +102,4 @@ Current version: **1.0.0**
 - 当前版本优先支持 Apple Silicon Mac。
 - 应用本地运行，不需要账号，不依赖云同步。
 - 该 GitHub 仓库用于产品介绍和下载，不包含源码。
+- 当前安装包暂未签名。如果 macOS 首次拦截打开，请进入 **系统设置 → 隐私与安全性**，手动允许打开 DropClean。
